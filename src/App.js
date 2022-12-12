@@ -7,8 +7,6 @@ import WeatherData from './Components/weather_data';
 const App = () => {
   return (
     <div className='backgorund'>
-      {/* <img src={background} alt='bg-images' ></img> */}
-      <div className='img'></div>
       <WeatherData/>
     </div>
   )

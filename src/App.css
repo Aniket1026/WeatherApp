@@ -1,18 +1,8 @@
+*{
+  color:azure;
+  font-weight: bolder;
+}
 .backmground {
   min-width: 100%;
   min-height: 100vh;
-
-}
-
-.img {
-      height: 100%;
-      width: 100%;
-      position: absolute;
-      background-image: url("./images/weather-background.webp");
-      top: 0;
-      right: 0;
-      left: 0;
-      z-index: -1;
-      background-repeat: no-repeat;
-      background-size: cover;
 }
